@@ -25,6 +25,7 @@ arxiv
 wikipedia
 mysql-connector-python
 SQLAlchemy
+googletrans==4.0.0-rc1
 validators==0.28.1
 youtube_transcript_api
 unstructured
